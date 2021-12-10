@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MrunalJagtap
 - 👀 I’m interested in developing new things
-- 🌱 I’m currently learning bcs
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
